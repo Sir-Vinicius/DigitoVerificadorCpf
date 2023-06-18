@@ -54,6 +54,7 @@ public class DV_CPF  extends JFrame{
         tfCpf.setBounds(260,50,85,24);
         
         tfDvResult = new JTextField();
+        tfDvResult.setEditable(false);
         getContentPane().add(tfDvResult);
         tfDvResult.setBounds(260,105,46,24);
         

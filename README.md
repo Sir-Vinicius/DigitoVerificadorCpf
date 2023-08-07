@@ -11,9 +11,9 @@ Este é um programa Java de calculadora de dígito verificador para CPF. Ele per
 
 ## Capturas de Tela
 
-![Captura de Tela Menu](./screenshots/Captura%20de%20tela%20Menu.png)
-![Captura de Tela Informações do Dev](./screenshots/Captura%20de%20tela%20InfoDev.png)
-![Captura de Tela Dígito Verificador de CPF](./screenshots/Captura%20de%20tela%20DV_CPF.png)
+![Captura de Tela Menu](./DigitoVerificadorCpf/DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20Menu.png)
+![Captura de Tela Informações do Dev](./DigitoVerificadorCpf/DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20InfoDev.png)
+![Captura de Tela Dígito Verificador de CPF](./DigitoVerificadorCpf/DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20DV_CPF.png)
 
 ## Como Usar
 

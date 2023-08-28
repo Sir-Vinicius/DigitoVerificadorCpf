@@ -1,6 +1,6 @@
 # Calculadora de Dígito Verificador de CPF
 
-Este é um programa Java de calculadora de dígito verificador para CPF. Ele permite calcular o dígito verificador de um número de CPF com base nos primeiros 9 dígitos inseridos pelo usuário.
+Este é um programa Java que calcula o dígito verificador do CPF (últimos dois digitos). Ele permite calcular o dígito verificador de um número de CPF com base nos primeiros 9 dígitos inseridos pelo usuário.
 
 ## Funcionalidades
 

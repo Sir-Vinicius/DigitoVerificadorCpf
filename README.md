@@ -1,6 +1,6 @@
 # Calculadora de Dígito Verificador de CPF
 
-Este é um programa Java que calcula o dígito verificador do CPF (últimos dois digitos). Ele permite calcular o dígito verificador de um número de CPF com base nos primeiros 9 dígitos inseridos pelo usuário.
+Este é um programa Java que calcula o dígito verificador do CPF (últimos dois dígitos). Ele permite calcular o dígito verificador de um número de CPF com base nos primeiros 9 dígitos inseridos pelo usuário.
 
 ## Funcionalidades
 
@@ -9,16 +9,18 @@ Este é um programa Java que calcula o dígito verificador do CPF (últimos dois
 - Opção para limpar os campos de entrada e saída.
 - Link para o perfil do desenvolvedor no LinkedIn.
 
+
 ## Capturas de Tela
 
-![Captura de Tela Menu](./DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20Menu.png)
-![Captura de Tela Informações do Dev](./DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20InfoDev.png)
-![Captura de Tela Dígito Verificador de CPF](./DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20DV_CPF.png)
+- **Menu Principal:**
+  ![Captura de Tela Menu](./DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20Menu.png)
 
-## Como Usar
+- **Informações do Desenvolvedor:**
+  ![Captura de Tela Informações do Dev](./DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20InfoDev.png)
 
-1. Execute o programa e selecione a opção "Digito verificador do CPF" no menu principal.
-2. Insira os primeiros 9 dígitos do CPF na caixa de texto correspondente.
-3. Clique no botão "Calcular" para obter o dígito verificador calculado.
-4. Use o botão "Limpar" para redefinir os campos de entrada e saída.
-5. Clique no link "LinkedIn" para visitar o perfil do desenvolvedor.
+- **Cálculo do Dígito Verificador de CPF:**
+  ![Captura de Tela Dígito Verificador de CPF](./DigitoVerificadorCpf/src/screenshots/Captura%20de%20tela%20DV_CPF.png)
+
+## Requisitos do Sistema
+
+- Java Development Kit (JDK) 8 ou superior.

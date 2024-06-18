@@ -9,17 +9,19 @@ Este é um programa Java que calcula o dígito verificador do CPF (últimos dois
 - Opção para limpar os campos de entrada e saída.
 - Link para o perfil do desenvolvedor no LinkedIn.
 
-
 ## Capturas de Tela
 
-- **Menu Principal:**
-  ![Captura de Tela Menu](./DigitoVerificadorCpf/screenshots/Captura%20de%20tela%20Menu.png)
+### Tela do Menu Principal
 
-- **Informações do Desenvolvedor:**
-  ![Captura de Tela Informações do Dev](./DigitoVerificadorCpf/screenshots/Captura%20de%20tela%20InfoDev.png)
+![Captura de Tela Menu](./screenshots/Captura%20de%20tela%20Menu.png)
 
-- **Cálculo do Dígito Verificador de CPF:**
-  ![Captura de Tela Dígito Verificador de CPF](./DigitoVerificadorCpf/screenshots/Captura%20de%20tela%20DV_CPF.png)
+### Tela das Informações do Desenvolvedor
+
+![Captura de Tela Informações do Dev](./screenshots/Captura%20de%20tela%20InfoDev.png)
+
+### Tela do Digito Verificador de CPF
+
+![Captura de Tela Dígito Verificador de CPF](./screenshots/Captura%20de%20tela%20DV_CPF.png)
 
 ## Requisitos do Sistema
 
